@@ -1,1 +1,1 @@
-# my-product-project
+# my-project
